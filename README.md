@@ -32,7 +32,7 @@ Open terminal, then:
 > - open Insomnia to test routes!
 
 Walkthrough Video: 
-
+https://drive.google.com/file/d/1hDw-2NATbY3vujOJjf3lPGrTm9KlcA48/view
 
 ## Credits
 
